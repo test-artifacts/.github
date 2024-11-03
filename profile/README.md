@@ -8,7 +8,7 @@ Test Artifacts will provide you the best test artifact you need, here is the fol
 
 |Test Plan|Test Strategy|Traceability Matrix|Performance Strategy|
 |---|---|---|---|
-|&check;|&cross;|&cross;|&cross;|
+|&#9989;|&#10060;|&#10060;|&#10060;|
 
 Access our website to support you to get started:
 
