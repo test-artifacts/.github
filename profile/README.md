@@ -6,9 +6,9 @@
 
 Test Artifacts will provide you the best test artifact you need, here is the following list of provided test artifacts already available or in development:
 
-|Test Plan|Test Strategy|Traceability Matrix|Performance Strategy|
+|Test Plan|Performance Guideline|Test Strategy|Traceability Matrix|
 |---|---|---|---|
-|&#9989;|&#10060;|&#10060;|&#10060;|
+|&#9989;|&#9989;|&#10060;|&#10060;|
 
 Access our website to support you to get started:
 
